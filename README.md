@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil❤❤
 
-<!--
-**juju05ss6/juju05ss6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ola meu nome é Julia da silva
+  
+- estou estudando na [alura](https:)//www.alura.com.br)
 
-Here are some ideas to get you started:
+- estou me desevolvendo na linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- utilizo esse espaço para minha organizaçao e desenvolvimento dos meus projetos
+
+
+
+
+
+
+![](https://media1.tenor.com/m/4sR9HE9IrlYAAAAC/peach-wig.gif)
+
